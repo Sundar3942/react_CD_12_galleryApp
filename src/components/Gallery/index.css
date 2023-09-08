@@ -1,0 +1,14 @@
+/* Write your code here. */
+.page {
+  height: 100vh;
+  padding: 25px;
+}
+.main-image {
+  height: 100;
+  width: 100%;
+  max-width: 650px;
+}
+.ul-list {
+  display: flex;
+  padding-left: 0px;
+}
